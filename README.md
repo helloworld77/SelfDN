@@ -33,6 +33,7 @@ tools/dist_test.sh projects/configs/SelfDN/selfdn_r50_704_bs2_seq_428q_nui_60e.p
 | :---: | :---: | :---: | :---: | :---:|:---:| :---: | :---: |
 | SelfDN | R50 - 428q | NuImg | 24ep | 53.8 | 44.3 | [config](projects/configs/SelfDN/selfdn_r50_704_bs2_seq_428q_nui_24e.py) | [ckpt](https://pan.baidu.com/s/1dcR3txbqbvZicmKzUFxcRw?pwd=sxkb) |
 | SelfDN | R50 - 428q | NuImg | 60ep | 56.8 | 47.9 | [config](projects/configs/SelfDN/selfdn_r50_704_bs2_seq_428q_nui_60e.py) | [ckpt](https://pan.baidu.com/s/1Jg7Ya0HtAxa9BipWtkyqBQ?pwd=q2v1) |
+| SelfDN | EVA02-L - 900q | EVA02 | 24ep | 62.9 | 55.1 | [config](projects/configs/SelfDN/selfdn_eva02_800_bs2_seq_24e.py) | [ckpt](https://pan.baidu.com/s/1RnhajBZRSZxUrEVgfLkMBA?pwd=qcdk) |
 
 
 ## Acknowledgements
